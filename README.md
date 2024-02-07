@@ -4,3 +4,5 @@
 
 #Assignment 1 Task 3:https://github.com/2203A51120/AIML2024/blob/main/2203A51120%20Task%203.ipynb
 
+#Assignment 2:https://github.com/2203A51120/AIML2024/blob/main/2203A51120%20Assignment%202.pdf
+
