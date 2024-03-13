@@ -6,6 +6,8 @@
 
 #Assignment 2:https://github.com/2203A51120/AIML2024/blob/main/2203A51120%20Assignment%202.pdf
 
+#Assignment 3 : https://github.com/2203A51120/AIML2024/blob/main/2203A51120%20AIML%20(3).pdf
+
 #ML Assignment 1: https://github.com/2203A51120/AIML2024/blob/main/2203A51120.ipynb%20-%20Colaboratory.pdf 
 
 #ML Assignment 2 : https://github.com/2203A51120/AIML2024/blob/main/Assignment_5%20(AIML).pdf
